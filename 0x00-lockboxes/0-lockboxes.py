@@ -2,6 +2,9 @@
 """interview boxes"""
 
 def canUnlockAll(boxes):
+    """function that identifies 
+        if all the boxes have a key
+        that opens them"""
     newlist = []
     k = len(boxes)
     for i in boxes:
