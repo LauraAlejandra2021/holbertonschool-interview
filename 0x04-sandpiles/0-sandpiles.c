@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * grid_addition - add 2 grids
+ * grid_sum - function that sum matrix
  * @grid1: first matrix
  * @grid2: second matrix
  */
