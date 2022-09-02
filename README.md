@@ -1,1 +1,1 @@
-this proyect is preparation for interview
+interview
